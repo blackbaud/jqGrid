@@ -1,0 +1,14 @@
+{
+  "name": "jqgrid",
+  "version": "4.7.1",
+  "description": "Forked version of free-jqgrid to allow npm consumption",
+  "main": "jquery.jqGrid.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blackbaud/jqGrid.git"
+  },
+  "bugs": {
+    "url": "https://github.com/blackbaud/jqGrid/issues"
+  },
+  "homepage": "https://github.com/blackbaud/jqGrid#readme"
+}
